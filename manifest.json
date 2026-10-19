@@ -5,6 +5,6 @@
     "optional": [],
     "js": "index.js",
     "author": "Gaurav",
-    "version": "4.0.0",
+    "version": "1.0.0",
     "description": "Prompts to delete a character's linked lorebook when the character is deleted."
 }
